@@ -1,0 +1,13 @@
+[
+  
+  {
+    "name": "erpnext",
+    "url": "https://github.com/frappe/erpnext",
+    "branch": "version-15"
+  },
+  {
+    "name": "healthcare",
+    "url": "https://github.com/earthians/marley",
+    "branch": "version-15"
+  }
+]
